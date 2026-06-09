@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, ich bin Muhammed! 👋<br>Full-Stack Developer | AI & Machine Learning Enthusiast<br>Ich liebe es, Brücken zwischen komplexen Backend-Architekturen, intuitiven Frontends und intelligenten KI-Lösungen zu bauen. Für mich ist Programmieren nicht nur Code schreiben, sondern Probleme elegant und zukunftssicher zu lösen.
+Hi, ich bin Muhammed! 👋<br>Full-Stack Developer | AI & Machine Learning Enthusiast
 
 
 # 💻 Tech Stack:
